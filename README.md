@@ -1,6 +1,6 @@
 # 2024_wt_sz_pizl
 # Grace Hopper (1906–1992)
-
+![Grace Hopper](https://en.wikipedia.org/wiki/File:Commodore_Grace_M._Hopper,_USN_(covered).jpg)
 **Grace Hopper** byla americká počítačová vědkyně, matematička a kontradmirál amerického námořnictva, která se stala jednou z nejvýznamnějších osobností rané éry výpočetní techniky. Její průkopnická práce zásadně ovlivnila vývoj programovacích jazyků a usnadnila používání počítačů široké veřejnosti.
 
 ## Hlavní přínosy:
