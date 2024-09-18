@@ -18,3 +18,5 @@
 Díky svým inovacím získala Grace Hopper mnoho ocenění. Její příspěvky k informatice jsou dodnes uznávány, například každoroční konference **Grace Hopper Celebration of Women in Computing** je pojmenována na její počest, a podporuje ženy ve vědě a technologii. Hopper byla průkopnicí nejen v oblasti technologií, ale také v prosazování žen v IT průmyslu.
 
 Její motto, „**Nejlepším způsobem, jak něco udělat, je prostě to udělat**“, zůstává inspirací pro mnoho generací technologů a programátorů.
+
+Zdroje: 	[Grace Hopper]([https://www.example.com](https://en.wikipedia.org/wiki/Grace_Hopper))
