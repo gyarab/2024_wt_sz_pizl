@@ -19,4 +19,4 @@ Díky svým inovacím získala Grace Hopper mnoho ocenění. Její příspěvky 
 
 Její motto, „**Nejlepším způsobem, jak něco udělat, je prostě to udělat**“, zůstává inspirací pro mnoho generací technologů a programátorů.
 
-Zdroje: 	[Grace Hopper]([https://www.example.com](https://en.wikipedia.org/wiki/Grace_Hopper))
+Zdroje: 	[Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
